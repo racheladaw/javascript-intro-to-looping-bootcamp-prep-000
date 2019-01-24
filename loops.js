@@ -16,5 +16,10 @@ function whileLoop(num) {
 }
 
 function doWhileLoop(array) {
-  
+  do {array.
+    
+  } 
+  while {array.length > 0 && incrementVariable() 
+  }
+}
 }
